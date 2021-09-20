@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ParinyaMoontongdang
 - 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning Coding.
+- 🌱 I’m currently learning Programming Fundamentals.
 - 💞️ I’m looking to collaborate on CMU(Chiang Mai University).
-- 📫 How to reach me FB:Parinya Moontongdang IG:parinya.cc Mail: petong38658@gmail.com
+- 📫 How to reach me FB:Parinya Moontongdang | IG:parinya.cc | Mail: petong38658@gmail.com
