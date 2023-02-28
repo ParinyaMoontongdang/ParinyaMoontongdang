@@ -7,7 +7,7 @@ Student
 I'm studying science, software, AI. at Varee Chiang Mai School
 
 * 🌍  I'm based in Chiang Mai, Thailand.
-* 🖥️  See my portfolio at [My portfolo](http://https://script.google.com/macros/s/AKfycbxNryKfh0dFAKbQ2O7RIwViDuidmQg_aOUJ1th3PBkgKuPeYsAB4ErER_339luQA9KzhQ/exec)
+* 🖥️  See my portfolio at [My portfolo](http://script.google.com/macros/s/AKfycbxNryKfh0dFAKbQ2O7RIwViDuidmQg_aOUJ1th3PBkgKuPeYsAB4ErER_339luQA9KzhQ/exec)
 * ✉️  You can contact me at [paype9483@gmail.com](mailto:paype9483@gmail.com)
 
 ### Skills
